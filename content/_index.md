@@ -7,9 +7,9 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-
+  
 sections:
- - block: hero
+  - block: hero
   content:
     title: "Grecia Alvarez"
     subtitle: "Business Analytics | AI | Trading | Python"
