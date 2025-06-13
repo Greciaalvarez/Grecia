@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: ciudad pur.jpg
+          filename: azul.jpg
           filters:
             brightness: 1.0
           size: cover
