@@ -26,12 +26,12 @@ sections:
           # Add your image background to `assets/media/`.
           filename: azul.jpg
           filters:
-            brightness: -1.0
+            brightness: -0.5
           size: cover
           position: center
           parallax: false
-      spacing:
-          padding: "6xl"
+    spacing:
+      padding: ["2rem", "0", "2rem", "0"]
     
   - block: markdown
     content:
