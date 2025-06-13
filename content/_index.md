@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Grecia Alvarez"
 date: 2022-10-24
 type: landing
 
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: azul.jpg
           filters:
-            brightness: 1.0
+            brightness: 3.0
           size: cover
           position: center
           parallax: false
