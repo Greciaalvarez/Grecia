@@ -10,22 +10,22 @@ design:
   
 sections:
   - block: hero
-  content:
-    title: "Grecia Alvarez"
-    subtitle: "Business Analytics | AI | Trading | Python"
-  design:
-    css_class: dark
-    spacing:
-      padding: ["2rem", "0", "2rem", "0"]  # ajusta altura
-    background:
-      color: black
-      image:
-        filename: azul.jpg
-        filters:
-          brightness: -0.5
-        size: cover
-        position: center
-        parallax: false
+    content:
+      title: "Grecia Alvarez"
+      subtitle: "Business Analytics | AI | Trading | Python"
+    design:
+      css_class: dark
+      spacing:
+        padding: ["2rem", "0", "2rem", "0"]
+      background:
+        color: black
+        image:
+          filename: azul.jpg
+          filters:
+            brightness: -0.5
+          size: cover
+          position: center
+          parallax: false
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
