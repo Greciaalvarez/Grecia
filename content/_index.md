@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: azul.jpg
+          filename: IMG_1113.jpg
           filters:
             brightness: -0.5
           size: cover
