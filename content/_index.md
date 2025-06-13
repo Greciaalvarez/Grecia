@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: azul.jpg
           filters:
-            brightness: 3.0
+            brightness: -1.0
           size: cover
           position: center
           parallax: false
