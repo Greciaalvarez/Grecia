@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: IMG_2527.jpg
+          filename: lavanda.jpg
           filters:
             brightness: -0.1
           size: cover
