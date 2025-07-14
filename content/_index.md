@@ -24,13 +24,12 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: lavanda.jpg
+          filename: Black and White Luxury Textured Quote Inspirational Desktop Wallpaper.png
           filters:
             brightness: 0.1
           size: cover
           position: center
           parallax: false
-          height: 100vh  
       
   - block: markdown
     content:
