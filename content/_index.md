@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: Black and White Luxury Textured Quote Inspirational Desktop Wallpaper.png
+          filename: Pale Turquoise Minimalistic  Summer Water Desktop Wallpaper .jpg
           filters:
             brightness: -0.1
           size: cover
