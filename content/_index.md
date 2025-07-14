@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: Black and White Luxury Textured Quote Inspirational Desktop Wallpaper.png
           filters:
-          brightness: 0.1
+            brightness: -0.1
           size: cover
           position: center
           parallax: false
