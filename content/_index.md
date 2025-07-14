@@ -26,10 +26,11 @@ sections:
           # Add your image background to `assets/media/`.
           filename: lavanda.jpg
           filters:
-            brightness: -0.1
+            brightness: 0.1
           size: cover
           position: center
           parallax: false
+          height: 100vh  
       
   - block: markdown
     content:
