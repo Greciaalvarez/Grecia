@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: Keep moving .jpg
+          filename: Keep moving.jpg
           filters:
             brightness: -0.1
           size: cover
